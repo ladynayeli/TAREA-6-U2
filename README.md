@@ -24,7 +24,7 @@ Conocer los conceptos de ondas sinusoidales,fuentes de voltaje sinusoidales, cap
 
 La forma de onda sinusoidal
 
-2. Calcule el periodo de cada uno de los siguientes valores de frecuencia:
+2.Calcule el periodo de cada uno de los siguientes valores de frecuencia:
 
 a) 1 Hz
 
@@ -50,7 +50,7 @@ f) 5MHz
 
 T=1/f=1/5M=0.2 µ (s)
 
-4.  Una onda seno tiene frecuencia de 50 kHz. ¿Cuántos ciclos completa en 10 ms?
+4.Una onda seno tiene frecuencia de 50 kHz. ¿Cuántos ciclos completa en 10 ms?
 
 T=1/f=1/50k=0.02 m (s)
 
@@ -64,7 +64,7 @@ x=(10m∙1)/0.02m=50 ciclos completa en 10 m(s)
 
 Fuentes de voltaje sinusoidal
 
-6. Cierto generador de cuatro polos gira a 3600 rpm. ¿Cuál es la frecuencia del voltaje que produce?
+6.Cierto generador de cuatro polos gira a 3600 rpm. ¿Cuál es la frecuencia del voltaje que produce?
 
 Transformando a revoluciones por segundo:  3600 rpm→→60rps
 
@@ -74,7 +74,7 @@ f=4∙60rps=240 Hz
 
 Valores sinusoidales de voltaje y corriente
 
-8. El valor pico de una onda seno es de 12 V. Determine los siguientes valores
+8.El valor pico de una onda seno es de 12 V. Determine los siguientes valores
 
 a) rms
 
@@ -100,7 +100,7 @@ Vprom=0.637∙12
 
 Vprom=7.64 v
 
-10. Para la onda seno de la figura 11-77, determine los valores pico, pico a pico, rms y promedio
+10.Para la onda seno de la figura 11-77, determine los valores pico, pico a pico, rms y promedio
 
 ![image](https://user-images.githubusercontent.com/105687213/179116868-299ecd00-7d41-4050-9e84-657aed90683e.png)
 
