@@ -432,14 +432,14 @@ f=(20µs)/(40µs)=0.5kHz
 
 Ciclo de trabajo en porcentaje:(0.5kHz)100%=50%
 
-40. Una forma de onda no sinusoidal llamada escalonada se muestra en la figura 11-88. Determine su valor promedio.
+40.Una forma de onda no sinusoidal llamada escalonada se muestra en la figura 11-88. Determine su valor promedio.
 ![image](https://user-images.githubusercontent.com/105687213/179120865-7cb51ff3-a213-40dc-b345-717e9b3de018.png)
  
 Vprom=Linea base+(ciclo de trabajo)(amplitud)
 
 Vprom=0V+(1.17)(6)=7.02V
 
-42. ¿Cuál es la frecuencia fundamental de la onda cuadrada mencionada en el problema 41?
+42.¿Cuál es la frecuencia fundamental de la onda cuadrada mencionada en el problema 41?
 
 T=40µs
 
@@ -467,7 +467,10 @@ b)0.0022 F×10^6=2200µF
 
 c)0.0000000015 F×10^6=0.0015µF
 
-6. ¿Qué tamaño de capacitor es capaz de guardar 10 mJ de energía con 100 V entre sus placas?
+6.¿Qué tamaño de capacitor es capaz de guardar 10 mJ de energía con 100 V entre sus placas?
+
+
+
 
 
 
