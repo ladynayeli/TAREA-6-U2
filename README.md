@@ -856,6 +856,7 @@ Un capacitor puede ser lo suficiente grande al ser conectado desde un punto de p
 • Finalmente es importante conocer la definicion de las ondas sinusoidales debido a que en este tema infuye la frencuencia y el periodo oara determinar el tiempo y los ciclos de las ondas seno.
 
 6.Bibliografia
+
 Floyd, T. (2007). Principios de circuitos electricos. CDMX, México: Pearson.
 
 
