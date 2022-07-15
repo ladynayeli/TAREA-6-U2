@@ -846,7 +846,9 @@ Un capacitor puede ser lo suficiente grande al ser conectado desde un punto de p
 
 ---------------------------------
 4.Video
+
 https://www.youtube.com/watch?v=yv_AqbkSnl8
+
 5.Conclusiones
 
 • Tras el análisis de los diferentes temas tratados en la unidad, se llega a concluir que para sacar la capacitancia total en un circuito en serie se usa la misma forma para sacar la resitencia total de la corriente en paralelo y para la capacitancia total en paralelo se sumas todas las capacitancias como en la resitencias en serie.
